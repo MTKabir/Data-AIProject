@@ -1,0 +1,6 @@
+cluster,Avg Amount Orders,Nb items,Avg Nb items,Avg item amount,PayMeth_Bancontact,PayMeth_Ideal,PayMeth_Klarna,PayMeth_Pay Later,PayMeth_shopify payments,Always Discount,Never Discount,Max Discount Percentage,Same SKU more than once,Email Marketing Consent,Accepts Marketing,click,open,Days since First Active,Days since Last Active,Recent City_amsterdam,Recent City_den haag,Recent City_haarlem,Recent City_rotterdam,Recent City_utrecht,Recent Country_be,Recent Country_de,Recent Country_nl
+0,70.44,4.01,1.6,29.4,0.69,0.06,0.04,0.16,0.17,0.62,0.24,0.11,0.17,1.0,0.06,0.6,0.98,661.57,136.72,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+1,72.5,3.26,1.63,33.21,0.0,0.03,0.17,0.01,0.85,0.88,0.03,0.15,0.07,0.96,0.54,0.59,0.93,220.63,37.12,0.04,0.02,0.01,0.02,0.02,0.14,0.0,0.86
+2,42.37,1.52,1.13,32.64,0.0,0.5,0.07,0.13,0.34,0.0,0.98,0.0,0.04,1.15,0.04,0.38,0.94,489.27,156.69,0.04,0.02,0.01,0.02,0.02,0.02,0.0,0.98
+3,68.18,3.41,1.66,29.58,0.01,0.76,0.01,0.23,0.04,0.86,0.0,0.13,0.12,0.73,0.02,0.54,0.98,683.16,200.48,0.04,0.01,0.01,0.02,0.02,0.0,0.0,1.0
+4,102.41,12.5,1.82,29.3,0.07,0.68,0.12,0.22,0.67,0.53,0.0,0.23,0.85,0.93,0.2,0.9,0.99,614.5,65.77,0.03,0.01,0.01,0.01,0.03,0.08,0.0,0.92
